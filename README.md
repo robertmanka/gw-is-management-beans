@@ -1,1 +1,1 @@
-# gw-is-management-beans
+# Management Beans for Guidewire InsuranceSuite 10.x
